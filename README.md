@@ -9,17 +9,17 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+- 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-FF9E0F?logoColor=white)
 
-###  IDE & Tools
+- 🧰 IDE & Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?logo=stmicroelectronics&logoColor=white)
 ![Vivado](https://img.shields.io/badge/Vivado-FFB500?logo=xilinx&logoColor=white)
 ![Vitis](https://img.shields.io/badge/Vitis-E01F27?logo=xilinx&logoColor=white)
 
-### 🔌 Boards
+- 🔌 Boards
 ![ATmega128A](https://img.shields.io/badge/ATmega128A-0069A6?logo=atmel&logoColor=white)
 ![STM32F411](https://img.shields.io/badge/STM32F411-03234B?logo=stmicroelectronics&logoColor=white)
 ![Basys3](https://img.shields.io/badge/Basys3-FF6600?logo=xilinx&logoColor=white)
