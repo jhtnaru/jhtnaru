@@ -1,5 +1,5 @@
 ## Hi 👋
-- 🌱 현재 경기인력개발원 **Semicon 설계 / 검증** 아카데미에서 직업훈련중
+- 🌱 경기인력개발원 **Semicon 설계 / 검증** 아카데미 학습
 - **FPGA & SoC, RTL 설계, Embedded Systems 학습**
 - MCU, FPGA 활용 학습과 Project를 통해 C, Verilog와 같은 언어와 Tool, 설계를 배워가는중
 - ✏️ **C, Verilog** / 🧰 VS-Code, STM32CubeIDE, Vivado, Vitis / ⚡ ATMega128A, STM32F411, Basys3
