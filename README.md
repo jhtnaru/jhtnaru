@@ -31,7 +31,7 @@
 ### 지하주차장 재난대응 Project
   [![지하주차장 재난대응 Notion](https://img.shields.io/badge/지하주차장_재난대응_Notion-F5F5F5?logo=notion&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://junaru.notion.site/System-Code-25c571106f87805fb0c0c3ad1cbd0c68?source=copy_link)
   [![지하주차장 재난대응 GitHub](https://img.shields.io/badge/지하주차장_재난대응_GitHub-F5F5F5?logo=github&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://github.com/jhtnaru/U_Parking_Manage)  
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![Vivado](https://img.shields.io/badge/Vivado-FFB500?logo=xilinx&logoColor=white)
   ![Verilog](https://img.shields.io/badge/Verilog-FF9E0F?logoColor=white)
   ![Basys3](https://img.shields.io/badge/Basys3-FF6600?logo=xilinx&logoColor=white)
@@ -40,7 +40,7 @@
 ### Auto RC Car Project
   [![Auto RC Car Notion](https://img.shields.io/badge/Auto_RC_Car_Notion-F5F5F5?logo=notion&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://junaru.notion.site/Auto-RC-Car-Project-G2-Code-22c571106f8780e68b8df6bc1c771a1f?source=copy_link)
   [![Auto RC Car GitHub](https://img.shields.io/badge/Auto_RC_Car_GitHub-F5F5F5?logo=github&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://github.com/jhtnaru/AutoRCCar_G2)  
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?logo=stmicroelectronics&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
   ![STM32F411](https://img.shields.io/badge/STM32F411-03234B?logo=stmicroelectronics&logoColor=white)
@@ -49,7 +49,7 @@
 ### Elevator Project
   [![Elevator Notion](https://img.shields.io/badge/Elevator_Notion-F5F5F5?logo=notion&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://junaru.notion.site/Elevator-Project-G2-Code-21a571106f8780d1b73cf86911aec522?source=copy_link)
   [![Elevator GitHub](https://img.shields.io/badge/Elevator_GitHub-F5F5F5?logo=github&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://github.com/jhtnaru/Elevator_G2)  
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-03234B?logo=stmicroelectronics&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
   ![STM32F411](https://img.shields.io/badge/STM32F411-03234B?logo=stmicroelectronics&logoColor=white)
@@ -59,7 +59,7 @@
 ### 선풍기 Project
   [![선풍기 Notion](https://img.shields.io/badge/선풍기_Notion-F5F5F5?logo=notion&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://junaru.notion.site/Electric-Fan-Project-G3-Code-20e571106f8780079e20c264078306a3?source=copy_link)
   [![선풍기 GitHub](https://img.shields.io/badge/선풍기_GitHub-F5F5F5?logo=github&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://github.com/jhtnaru/workspace_semicon/tree/main/arm)  
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
   ![ATmega128A](https://img.shields.io/badge/ATmega128A-0069A6?logo=atmel&logoColor=white)
