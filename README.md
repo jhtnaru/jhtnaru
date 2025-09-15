@@ -4,6 +4,8 @@
 - MCU, FPGA 활용 학습과 Project를 통해 C, Verilog와 같은 언어와 Tool, 설계를 배워가는중
 - ✏️ **C, Verilog** / 🧰 VS-Code, STM32CubeIDE, Vivado, Vitis / ⚡ ATMega128A, STM32F411, Basys3
 - ✉️ Email: jhtnaru@naver.com
+  
+  [![Portfolio Notion](https://img.shields.io/badge/Portfolio_Notion-F5F5F5?logo=notion&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://junaru.notion.site/Portfolio-26e571106f87802f8e66cdecf05d2c88?source=copy_link)
 
 ---
 
