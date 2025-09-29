@@ -71,7 +71,8 @@
 - Button 입력 통한 **날개 동작 및 속도 조절, 회전**, FND, LED 출력
 - Embedded 설계, 실제 구현 과정(설계 및 계획, Coding, 제작, Test) 경험
 
-### 다목적 옥상 관제 Project (ing...)
+### 다목적 옥상 관제 Project
+  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
   ![Vivado](https://img.shields.io/badge/Vivado-FFB500?logo=xilinx&logoColor=white)
   ![Verilog](https://img.shields.io/badge/Verilog-FF9E0F?logoColor=white)
