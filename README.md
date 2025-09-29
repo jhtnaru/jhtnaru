@@ -30,6 +30,18 @@
 
 ## 📂 Projects
 
+### 다목적 옥상 관제 Project
+  [![옥상 관제 Notion](https://img.shields.io/badge/옥상_관제_Notion-F5F5F5?logo=notion&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://junaru.notion.site/System-Code-270571106f8780d99bdffa0bca2a8f3e?source=copy_link)
+  [![옥상 관제 GitHub](https://img.shields.io/badge/옥상_관제_GitHub-F5F5F5?logo=github&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://github.com/jhtnaru/Rooftop_Manage)    
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![Vivado](https://img.shields.io/badge/Vivado-FFB500?logo=xilinx&logoColor=white)
+  ![Verilog](https://img.shields.io/badge/Verilog-FF9E0F?logoColor=white)
+  ![Vitis](https://img.shields.io/badge/Vitis-E01F27?logo=xilinx&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+  ![Basys3](https://img.shields.io/badge/Basys3-FF6600?logo=xilinx&logoColor=white)
+- **감시**(드론 등) 및 **관측**(국지성 기후), **재생에네지**(방향 조절), **재난대응** 관리 및 제어
+- RTL 설계 통한 **IP 생성**, Block Design 이용 **SoC 통합** 및 구현 경험
+
 ### 지하주차장 재난대응 Project
   [![지하주차장 재난대응 Notion](https://img.shields.io/badge/지하주차장_재난대응_Notion-F5F5F5?logo=notion&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://junaru.notion.site/System-Code-25c571106f87805fb0c0c3ad1cbd0c68?source=copy_link)
   [![지하주차장 재난대응 GitHub](https://img.shields.io/badge/지하주차장_재난대응_GitHub-F5F5F5?logo=github&logoColor=black&labelColor=F5F5F5&color=F5F5F5&style=for-the-badge)](https://github.com/jhtnaru/U_Parking_Manage)  
@@ -71,17 +83,6 @@
 - Button 입력 통한 **날개 동작 및 속도 조절, 회전**, FND, LED 출력
 - Embedded 설계, 실제 구현 과정(설계 및 계획, Coding, 제작, Test) 경험
 
-### 다목적 옥상 관제 Project
-  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-  ![Vivado](https://img.shields.io/badge/Vivado-FFB500?logo=xilinx&logoColor=white)
-  ![Verilog](https://img.shields.io/badge/Verilog-FF9E0F?logoColor=white)
-  ![Vitis](https://img.shields.io/badge/Vitis-E01F27?logo=xilinx&logoColor=white)
-  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
-  ![Basys3](https://img.shields.io/badge/Basys3-FF6600?logo=xilinx&logoColor=white)
-- **감시**(드론 등) 및 **관측**(국지성 기후), **재생에네지**(방향 조절), **재난대응** 관리 및 제어
-- RTL 설계 통한 IP 생성, Block Design 이용 FPGA 기반 SoC 설계 및 구현 경험
-  
 <!--
 **jhtnaru/jhtnaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
