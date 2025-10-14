@@ -39,7 +39,7 @@
   ![Vitis](https://img.shields.io/badge/Vitis-E01F27?logo=xilinx&logoColor=white)
   ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
   ![Basys3](https://img.shields.io/badge/Basys3-FF6600?logo=xilinx&logoColor=white)
-- **감시**(드론 등) 및 **관측**(국지성 기후), **재생에네지**(방향 조절), **재난대응** 관리 및 제어
+- **감시**(드론 등) 및 **관측**(국지성 기후), **재생에너지**(방향 조절), **재난대응** 관리 및 제어
 - RTL 설계 통한 **IP 생성**, Block Design 이용 **SoC 통합** 및 구현 경험
 
 ### 지하주차장 재난대응 Project
